@@ -1,0 +1,9 @@
+{
+  "InvoiceSettings": {
+    "LoginFileName": "Bank Login Credential.xlsx",
+    "LoginFileLocation": "\\\\corp.realpage.com\\rpdfs\\Groups\\Corporate Treasury - Bank Statements",
+    "Project": "MIVI",
+    "LocalDownloadLocationForExcel": "\\\\Rpipl2-nb-hp145\\wf\\MIVI\\EXCEL",
+    "LocalDownloadLocationForPDF": "\\\\Rpipl2-nb-hp145\\wf\\MIVI\\PDF"
+  }
+}
