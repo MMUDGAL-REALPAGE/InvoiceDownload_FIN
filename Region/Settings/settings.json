@@ -1,0 +1,17 @@
+{
+  "InvoiceSettings": {
+    "LoginFileName": "Bank Login Credential.xlsx",
+    "LoginFileLocation": "\\\\RPIPL2-NB-HP145\\Corporate Treasury - Bank Statements",
+    "Project": "REGION", //In CAPS
+    "LocalDownloadLocation": "\\\\Rpipl2-nb-hp145\\wf",
+    "DownloadPDF": true,
+    "UpdateEndingBalance": true,
+    "DownloadExcel": true
+  },
+  "LoginQuestion": {
+    "Name of your oldest niece? [R-3]": "mouni",
+    "What is the name of the place your wedding reception was held? [H-6]": "pargi",
+    "What was the name of your first best friend? [F-11]": "kittu"
+  }
+}
+
